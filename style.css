@@ -6,6 +6,10 @@
 body, html {
   height: 100%;
   display: grid;
+  overflow: hidden;
+  position: relative;
+  margin: 0;
+  padding: 0;
 }
 p { /* thing to center */
   margin: auto;
