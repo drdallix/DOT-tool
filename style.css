@@ -1,7 +1,5 @@
 .barcode{
   font-family: 'Libre Barcode 39 Text', cursive;
-dynamic-scaling
-  font-size: 30px;
+  font-size: 10em;
 }
-master
 
