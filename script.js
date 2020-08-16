@@ -1,5 +1,5 @@
 function barcode() {
-  var x = document.getElementById("myText").value;
+  var x = document.getElementById("input").value;
   var y = "*"
   var z = y.concat(x,y)
 
