@@ -4,15 +4,16 @@
 }
 
 body, html {
-  height: 100%;
+  height: 150%;
   display: grid;
   overflow: hidden;
   position: relative;
   margin: 0;
   padding: 0;
 }
-p { /* thing to center */
-  top: auto;
+p {
+  position: relative;
+  top: 10px;
 }
 
 div {
