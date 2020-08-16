@@ -1,10 +1,12 @@
-function barcode() {
+function submit() {
   var x = document.getElementById("input").value;
   var y = "*"
   var z = y.concat(x,y)
-
+  
   document.getElementById("output").innerHTML = z;
+
 }
+
 
 window.addEventListener("scroll", preventMotion, false);
 window.addEventListener("touchmove", preventMotion, false);
