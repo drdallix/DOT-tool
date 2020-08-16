@@ -1,4 +1,8 @@
-
+.body{
+  margin: 0px;
+  min-height: 100%;
+  width: 100%;
+}
 .barcode{
   font-family: 'Libre Barcode 39 Text', cursive;
   font-size: 60px;
