@@ -3,11 +3,5 @@
   font-size: 100px;
 }
 
-body, html {
-  display: grid;
-  overflow: hidden;
-  position: relative;
-  margin: 0;
-  padding: 0;
-}
+
 
