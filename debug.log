@@ -23,3 +23,7 @@
 [0816/194026.004:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0816/194358.397:ERROR:crash_report_database_win.cc(469)] failed to stat report
 >>>>>>> origin/dynamic-scaling
+[0816/194956.628:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0816/195126.548:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0816/195236.564:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0816/195513.543:ERROR:crash_report_database_win.cc(469)] failed to stat report

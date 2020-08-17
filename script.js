@@ -8,6 +8,8 @@ function submit() {
 }
 
 
+
+
 window.addEventListener("scroll", preventMotion, false);
 window.addEventListener("touchmove", preventMotion, false);
 
