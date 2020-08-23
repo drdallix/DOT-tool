@@ -1,7 +1,7 @@
 function submit() {
-  var z = document.getElementById("input").value;
-  var y = "*"
-  var z = y.concat(x,y)
-  console.log(x, z)
-  JsBarcode("#barcode", z);
+  var input = document.getElementById("input").value;
+  console.log(input);
+  var input = input.toUpperCase();
+  console.log(input);
+  JsBarcode("#barcode", input);
 }

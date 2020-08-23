@@ -1,25 +1,16 @@
 <head>
-    <meta charset="utf-8">
-    <title>Box model</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&display=swap" rel="stylesheet">
-    <script src="script.js"></script>
-    <script src="JsBarcode.all.min.js"></script>
-    
+  <meta charset="utf-8">
+  <title>Box model</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+  <script src="JsBarcode.all.min.js"></script>
 </head>
 
-<meta name="viewport" content="width=device-width, maximum-scale=3.0, minimum-scale=0.86">
+<header id="title">DOT tool</header>
 
+<svg id="barcode"></svg>
 
-</block>
-  <h1 id="title">DOT tool</h1>
+<input autocomplete="false" type="text" id="input" value="" placeholder="DOT number"> </input>
 
-<svg id="barcode">
-</svg>
+<button onclick="submit()">submit</button>
 
-<input autocomplete="false" type="text" id="input" value="" size="16" placeholder="DOT number"></input> <br>
-<button onclick="submit()"class="center">submit</button> 
-
-</block>
-
-  </html>
